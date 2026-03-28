@@ -13,7 +13,7 @@ The goal is to provide a centralized view of important macro signals to support 
   	- USD strength (DXY)
   	- Commodity prices (Gold)
 	- Display data in a simple and readable format
-	- Desigb for quick marcro monitoring
+	- Design for quick marcro monitoring
 	- Portfolio allocation support tool
 
 ## Tech Stack:
