@@ -1,8 +1,4 @@
-
-
-
-
-#2. Multi-platform Dashboard
+# Multi-platform Dashboard
 
 ## Overview:
 A cross-platform marketing dashboard that aggregates and analyzes ad performance across Web, Facebook, and TikTok.
