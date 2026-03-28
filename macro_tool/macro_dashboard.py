@@ -10,11 +10,14 @@ st.caption("Offline mode: read local CSV files only (no network calls)")
 
 # ===================== PATH CONFIG =====================
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR 
+# Sửa dòng dưới đây: thêm / "data" để trỏ vào đúng thư mục chứa CSV
+DATA_DIR = BASE_DIR / "data" 
 
-# Debug: show path in sidebar
-st.sidebar.write(f"DATA_DIR: {DATA_DIR}")
+# Debug: Hiển thị đường dẫn trên sidebar để bạn dễ kiểm tra nếu có lỗi
+st.sidebar.write(f"📂 App Folder: {BASE_DIR.name}")
+st.sidebar.write(f"📊 Data Folder: {DATA_DIR}")
 
+# Đảm bảo tên file ở đây khớp 100% với tên file bạn đã up lên GitHub
 REQUIRED_FILES = {
     "cpi": DATA_DIR / "cpi.csv",
     "fed_funds": DATA_DIR / "fed_funds.csv",
