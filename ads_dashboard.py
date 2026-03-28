@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
 
-# Thiết lập cấu hình trang
+# ==========================================
+# 0. THIẾT LẬP CẤU HÌNH TRANG
+# ==========================================
 st.set_page_config(layout="wide", page_title="Marketing Dashboard Demo")
 
 st.title("📊 Multi-platform advertising analytics dashboard (Demo)")
@@ -13,7 +15,6 @@ st.markdown("---")
 with st.sidebar:
     st.header("⚙️ Goal settings")
     
-    # Cho phép người dùng tự điền các ngưỡng
     target_roas = st.number_input(
         "Expected ROAS (e.g., 4.0)", 
         min_value=0.1, 
@@ -22,15 +23,16 @@ with st.sidebar:
     )
     
     target_cpa = st.number_input(
-        "Expected CPA (e.g., 60000 VNĐ)", 
+        "Expected CPA (VNĐ)", 
         min_value=1, 
         value=60000, 
         step=1000,
         format="%d"
     )
     
+    # Tỷ lệ chi phí vận hành (COGS, Ship, Staff...)
     operation_cost_rate = st.slider(
-        "Operation cost rate (% of revenue, e.g., 50%)",
+        "Operation cost rate (% of revenue)",
         min_value=0, 
         max_value=100, 
         value=50, 
@@ -45,41 +47,20 @@ with st.sidebar:
     
     st.divider()
     st.subheader("Campaign assets")
-    st.caption("Demo mode: upload a campaign image. Campaign URLs are assumed.")
-
+    
     with st.expander("Website campaign", expanded=False):
-        campaign_name_website = st.text_input("Campaign name (Website)", value="Website - Always On")
-        campaign_image_website = st.file_uploader(
-            "Campaign image (Website)",
-            type=["png", "jpg", "jpeg", "webp"],
-            accept_multiple_files=False,
-            key="campaign_image_website",
-        )
+        campaign_name_website = st.text_input("Campaign name (Web)", value="Website - Always On")
+        campaign_image_website = st.file_uploader("Image (Web)", type=["png", "jpg", "jpeg"], key="img_web")
 
     with st.expander("Facebook campaign", expanded=False):
-        campaign_name_facebook = st.text_input("Campaign name (Facebook)", value="Facebook - Prospecting")
-        campaign_image_facebook = st.file_uploader(
-            "Campaign image (Facebook)",
-            type=["png", "jpg", "jpeg", "webp"],
-            accept_multiple_files=False,
-            key="campaign_image_facebook",
-        )
+        campaign_name_facebook = st.text_input("Campaign name (FB)", value="Facebook - Prospecting")
+        campaign_image_facebook = st.file_uploader("Image (FB)", type=["png", "jpg", "jpeg"], key="img_fb")
 
     with st.expander("TikTok campaign", expanded=False):
-        campaign_name_tiktok = st.text_input("Campaign name (TikTok)", value="TikTok - Spark Ads")
-        campaign_image_tiktok = st.file_uploader(
-            "Campaign image (TikTok)",
-            type=["png", "jpg", "jpeg", "webp"],
-            accept_multiple_files=False,
-            key="campaign_image_tiktok",
-        )
+        campaign_name_tiktok = st.text_input("Campaign name (TT)", value="TikTok - Spark Ads")
+        campaign_image_tiktok = st.file_uploader("Image (TT)", type=["png", "jpg", "jpeg"], key="img_tt")
 
-    # Mặc định: tự hiển thị dashboard khi mở trang
-    if "run_analysis" not in st.session_state:
-        st.session_state.run_analysis = True
-
-    run_analysis = st.toggle("Show dashboard", value=st.session_state.run_analysis)
-    st.session_state.run_analysis = run_analysis
+    run_analysis = st.toggle("Show dashboard", value=True)
     st.button("Refresh analysis", type="primary")
 
 # ==========================================
@@ -96,131 +77,94 @@ data = {
 df = pd.DataFrame(data)
 df["Spending"] = [spending_website, spending_facebook, spending_tiktok]
 
-demo_campaign_urls = {
-    "Website": "https://example.com/campaigns/website-always-on",
-    "Facebook": "https://example.com/campaigns/facebook-prospecting",
-    "TikTok": "https://example.com/campaigns/tiktok-spark-ads",
-}
-
 campaign_assets = [
-    {
-        "Platform": "Website",
-        "Campaign": campaign_name_website,
-        "URL": demo_campaign_urls["Website"],
-        "Image": campaign_image_website,
-    },
-    {
-        "Platform": "Facebook",
-        "Campaign": campaign_name_facebook,
-        "URL": demo_campaign_urls["Facebook"],
-        "Image": campaign_image_facebook,
-    },
-    {
-        "Platform": "TikTok",
-        "Campaign": campaign_name_tiktok,
-        "URL": demo_campaign_urls["TikTok"],
-        "Image": campaign_image_tiktok,
-    },
+    {"Platform": "Website", "Campaign": campaign_name_website, "Image": campaign_image_website, "URL": "https://example.com/web"},
+    {"Platform": "Facebook", "Campaign": campaign_name_facebook, "Image": campaign_image_facebook, "URL": "https://facebook.com/ads"},
+    {"Platform": "TikTok", "Campaign": campaign_name_tiktok, "Image": campaign_image_tiktok, "URL": "https://tiktok.com/ads"},
 ]
 
 # ==========================================
 # 3. XỬ LÝ VÀ HIỂN THỊ DỮ LIỆU
 # ==========================================
 if run_analysis:
-    st.header("SUMMARY RESULTS")
-
-    # Tính toán các chỉ số chung
+    # --- TÍNH TOÁN CHỈ SỐ ---
     df['ROAS'] = (df['Revenue'] / df['Spending']).round(2)
-    df['CPA'] = (df['Spending'] / df['User_Reg']).round(0).astype(int)
+    # Tránh lỗi chia cho 0 hoặc rỗng cho CPA
+    df['CPA'] = (df['Spending'] / df['User_Reg']).fillna(0).replace([float('inf')], 0).astype(int)
     
-    # Tính ROI (Giả định đơn giản)
-    # ROI = (Lợi nhuận ròng / Tổng đầu tư) * 100
-    df['Profit'] = df['Revenue'] * (1 - operation_cost_rate) - df['Spending']
-    df['Total_Investment'] = df['Spending'] + (df['Revenue'] * operation_cost_rate)
-    df['ROI'] = ((df['Profit'] / df['Total_Investment']) * 100).round(1)
+    # Tính ROI chuẩn: (Doanh thu - Tổng chi phí) / Tổng chi phí
+    df['Total_Cost'] = (df['Revenue'] * operation_cost_rate) + df['Spending']
+    df['Profit'] = df['Revenue'] - df['Total_Cost']
+    df['ROI'] = ((df['Profit'] / df['Total_Cost']) * 100).round(1)
 
-    # Hiển thị bảng dữ liệu chính
-    # Làm nổi bật các chỉ số CPA quá cao
+    # --- HIỂN THỊ METRICS TỔNG QUAN ---
+    st.header("📈 PERFORMANCE OVERVIEW")
+    t_spend = df['Spending'].sum()
+    t_rev = df['Revenue'].sum()
+    t_roas = round(t_rev / t_spend, 2) if t_spend > 0 else 0
+    
+    col_m1, col_m2, col_m3 = st.columns(3)
+    col_m1.metric("Total Spending", f"{t_spend:,.0f} VNĐ")
+    col_m2.metric("Total Revenue", f"{t_rev:,.0f} VNĐ")
+    col_m3.metric("Avg ROAS", f"{t_roas}x", delta=f"{round(t_roas - target_roas, 2)}")
+
+    st.markdown("---")
+
+    # --- BẢNG DỮ LIỆU CHI TIẾT ---
+    st.subheader("Platform Breakdown")
     def highlight_cpa(s):
         return ['background-color: #ffcccc' if v > target_cpa else '' for v in s]
     
     styled_df = (
         df[['Platform', 'Spending', 'User_Reg', 'Revenue', 'ROAS', 'ROI', 'CPA']]
         .style.apply(highlight_cpa, subset=['CPA'])
-        .format(
-            {
-                "Spending": "{:,.0f}",
-                "User_Reg": "{:,.0f}",
-                "Revenue": "{:,.0f}",
-                "ROAS": "{:,.2f}",
-                "ROI": "{:,.1f}",
-                "CPA": "{:,.0f}",
-            }
-        )
+        .format({
+            "Spending": "{:,.0f}", "User_Reg": "{:,.0f}", 
+            "Revenue": "{:,.0f}", "ROAS": "{:,.2f}", 
+            "ROI": "{:,.1f}%", "CPA": "{:,.0f}"
+        })
     )
-    
     st.dataframe(styled_df, use_container_width=True)
 
+    # --- CAMPAIGN GALLERY ---
     st.markdown("---")
-
-    st.subheader("Campaign gallery")
-    cols = st.columns(3)
+    st.subheader("🖼️ Campaign Gallery")
+    cols = st.columns(len(campaign_assets))
     for i, asset in enumerate(campaign_assets):
-        with cols[i % 3]:
+        with cols[i]:
             st.markdown(f"**{asset['Platform']}**")
-            st.write(asset["Campaign"] or "(Unnamed campaign)")
-            if asset["Image"] is not None:
+            st.caption(asset["Campaign"] or "Unnamed")
+            if asset["Image"]:
                 st.image(asset["Image"], use_container_width=True)
             else:
-                st.info("Upload an image in the sidebar to show it here.")
+                st.info("No image uploaded")
+            st.link_button("View Ads", asset["URL"], use_container_width=True)
 
-            if asset["URL"]:
-                st.link_button("Open campaign", asset["URL"])
-            else:
-                st.caption("Add a Campaign URL in the sidebar to enable the link.")
+    # --- AI INSIGHTS ---
+    st.markdown("---")
+    st.header("🤖 AI INSIGHTS & RECOMMENDATIONS")
     
-    # ==========================================
-    # 4. AI INSIGHTS & ĐỀ XUẤT HÀNH ĐỘNG
-# ==========================================
-    st.header("🤖 AI INSIGHTS & ACTION RECOMMENDATIONS")
+    c_alert, c_rec = st.columns(2)
     
-    col1, col2 = st.columns(2)
-    
-    with col1:
-        st.subheader("Smart alerts")
-        alerts_found = False
-        
-        for index, row in df.iterrows():
+    with c_alert:
+        st.subheader("Smart Alerts")
+        alerts = False
+        for _, row in df.iterrows():
             if row['ROAS'] < target_roas:
-                st.error(
-                    f"🚨 **{row['Platform']}**: ROAS ({row['ROAS']}) is below the target ({target_roas}). "
-                    f"CPA ({row['CPA']:,} VND) is too high."
-                )
-                alerts_found = True
+                st.error(f"⚠️ **{row['Platform']}**: Low ROAS ({row['ROAS']}). CPA is {row['CPA']:,} VNĐ.")
+                alerts = True
             elif row['ROAS'] > target_roas * 1.5:
-                st.success(f"✅ **{row['Platform']}**: Great performance. ROAS ({row['ROAS']}) is well above target.")
-                alerts_found = True
+                st.success(f"🌟 **{row['Platform']}**: Overperforming! ROAS is {row['ROAS']}.")
+                alerts = True
+        if not alerts: st.write("All platforms are performing within targets.")
 
-        if not alerts_found:
-            st.info("No alerts found.")
-
-    with col2:
-        st.subheader("💡 Recommended actions")
-        recommendations = []
-        
-        for index, row in df.iterrows():
+    with c_rec:
+        st.subheader("💡 Actions")
+        for _, row in df.iterrows():
             if row['ROAS'] < target_roas:
-                recommendations.append(
-                    f"- **{row['Platform']}**: Cut budget by 50% or pause campaigns with CPA > {target_cpa:,.0f} VND."
-                )
+                st.write(f"👉 **{row['Platform']}**: Consider pausing or optimizing creatives to lower CPA below {target_cpa:,} VNĐ.")
             elif row['ROAS'] > target_roas * 1.5:
-                recommendations.append(f"- **{row['Platform']}**: Increase budget by 20% to maximize new users.")
-        
-        if recommendations:
-            for rec in recommendations:
-                st.write(rec)
-        else:
-            st.write("Performance looks stable — no changes recommended.")
+                st.write(f"🚀 **{row['Platform']}**: Scale budget by 15-20% to capture more volume.")
 
 else:
-    st.info("Turn on 'Show dashboard' in the sidebar to view results.")
+    st.warning("Please enable 'Show dashboard' in the sidebar to view analysis.")
