@@ -5,9 +5,10 @@ A cross-platform marketing dashboard that aggregates and analyzes ad performance
 It eliminates data silos by centralizing key KPIs (ROAS, ROI, CPA, Conversions) into a single source of truth, with built-in insights for better decision-making
 
 ## Features:
-	- Multi-platform view: Combine data from Web, Facebook, TikTok
+	- Multi-platform view: Track campaign performance from Web, Facebook, TikTok
 	-	Custom KPI targets: Set ROAS, CPA, and cost assumptions
 	-	Creative analytics: View ad visuals alongside performance
+	- 	Support budget allocation decisions
 	-	Automated insights: Highlight winning & losing channels
 	-	Smart alerts: Flag underperforming campaigns
 	-	Direct links: Jump to ad managers for quick actions
