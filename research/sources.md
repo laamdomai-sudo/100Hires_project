@@ -31,8 +31,7 @@ Instead, he focuses on:
   - Same Idea, Different Timing  
 
 - YouTube videos:
-  - Why Content Distribution Matters More Than Creation  
-  - Distribution Strategy Session (Coaching Call)  
+  - How to 10x Your "Old" Content Into Something Brand New  
 
 ### Why it matters for this research
 Justin Simon’s content provides a strong foundation for building a LinkedIn organic strategy that is:
