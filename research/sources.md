@@ -1,41 +1,49 @@
-## 1.Justin Simon
+## 1. Justin Simon
+
 - Profile: https://www.linkedin.com/in/justincsimon/
 - Platforms: LinkedIn, YouTube
 - Focus:
-  - Content distribution strategy
-  - B2B SaaS growth via organic content
-  - Message repetition and idea-based content systems
+  - Distribution-first content strategy
+  - Content repurposing and idea amplification
+  - B2B SaaS organic growth systems
 
 ### Why this expert
-Justin Simon is a practitioner-focused strategist who emphasizes distribution-first thinking in B2B SaaS content.
-His work consistently challenges common assumptions such as:
-- creating more content leads to better results
-- virality equals success
+Justin Simon is a practitioner who emphasizes that growth in B2B SaaS content comes from distribution and idea reuse, not content volume.
+His work is especially relevant for:
+- building repeatable LinkedIn content systems
+- turning a single idea into multiple assets
+- aligning content with pipeline and audience reach
 
-Instead, he focuses on:
-- repeatable distribution systems
-- idea-driven content (not format-driven)
-- aligning content with pipeline and revenue
-
-### Key Themes Observed
+### Key themes observed
 - Distribution > content creation  
-- Repetition builds market awareness  
+- Repetition builds awareness  
+- Strong ideas should be reused, not replaced  
 - Content should support pipeline, not just engagement  
-- Strong ideas should be reused and redistributed  
-- Owned audience (email) is critical for long-term growth  
+- Repurposing should be idea-driven, not format-driven  
 
-### Collected Materials
-- LinkedIn posts:
-  - Prioritize Distribution Over Content Creation  
-  - Marketing Has Completely Changed  
-  - Same Idea, Different Timing  
+### Collected materials
 
-- YouTube videos:
-  - How to 10x Your "Old" Content Into Something Brand New  
+#### LinkedIn posts
+- Prioritize Distribution Over Content Creation — 2026  
+  → Argues that distribution planning should come before content creation.
+
+- Marketing Has Completely Changed — 2026  
+  → Highlights the shift from content output to content systems.
+
+- Same Idea, Different Timing — 2026  
+  → Demonstrates how repetition and timing impact content performance.
+
+#### YouTube videos
+
+- How to 10x Your "Old" Content Into Something Brand New (w/ Ali Schwanke) — 2026  
+  → Explains how to turn one strong idea into multiple pieces of content through repurposing.
 
 ### Why it matters for this research
+
 Justin Simon’s content provides a strong foundation for building a LinkedIn organic strategy that is:
+
 - system-driven (not post-by-post)
-- focused on distribution and message penetration
-- aligned with B2B SaaS pipeline generation
-His insights are directly applicable to constructing a scalable content playbook.
+- focused on distribution and idea amplification
+- designed to maximize the impact of a limited number of strong ideas
+
+His approach is directly applicable to creating a scalable B2B SaaS content playbook.
