@@ -52,4 +52,78 @@ It also highlights that most markets are already crowded — so differentiation 
 - Test pricing models based on willingness to pay.
 - Focus messaging on outcomes, not features.
 
+### Personal Note
+This video reinforces a key Hormozi principle:
+You don’t “convince” people to buy —  
+you build something so aligned with their needs that buying feels obvious.
+
 -----------------
+## Alex Hormozi — YouTube Video 2
+
+Title: 7 Ways to Get People to Buy More Times
+URL: [https://www.youtube.com/watch?v=sPkMHh8zTMI]
+Channel: Alex Hormozi
+Date: 2025
+
+### Summary
+
+In this video, Alex Hormozi shares a tactical framework for increasing revenue **without acquiring more customers** — by maximizing the value of existing ones.
+
+The core idea:
+
+👉 Growth doesn’t come from more leads — it comes from making each customer more valuable.
+
+Instead of focusing on top-of-funnel acquisition, Hormozi breaks down how businesses can drive more revenue by increasing purchase frequency, order size, and retention while reducing friction and risk in the buying process.
+
+### Key Insights
+
+- The fastest way to grow is by increasing how often customers buy.
+- Subscription models and reminders can shorten purchase cycles.
+- Average Order Value (AOV) can be increased through:
+
+  - upsells,
+  - cross-sells,
+  - and bundles.
+- Better offers outperform better marketing.
+- Strong offers include:
+
+  - high perceived value,
+  - low risk,
+  - clear outcomes.
+- Reducing friction (fewer steps, simpler UX) increases conversion rates.
+- Trust is a key driver of purchase decisions:
+
+  - testimonials,
+  - case studies,
+  - and social proof accelerate buying.
+- Urgency and scarcity drive action — but must be authentic.
+- Customer experience directly impacts retention and repeat purchases.
+
+### Why it matters
+
+This video shifts the focus from **customer acquisition to customer monetization**.
+
+For most businesses, especially B2B and SaaS:
+
+- increasing LTV is more efficient than increasing traffic,
+- and improving conversion systems has higher ROI than scaling ads.
+
+It also highlights that many companies underutilize their existing customer base — leaving significant revenue untapped.
+
+### How to use this in the playbook
+
+- Identify ways to increase purchase frequency (subscriptions, follow-ups).
+- Implement upsell and bundling strategies to raise AOV.
+- Redesign offers to maximize perceived value and reduce risk.
+- Simplify the buying journey to remove friction.
+- Add trust signals across the funnel.
+- Use real urgency to drive faster decisions.
+- Invest in post-purchase experience to improve retention.
+
+### Personal Note
+
+This video reinforces a simple but powerful shift:
+You don’t need more customers to grow —
+you need to make each customer worth more.
+
+
