@@ -95,3 +95,62 @@ Maja Voje’s content adds a strong GTM layer to the research project.
 Her posts are useful because they show how LinkedIn strategy, outreach, events, and AI tools can work together inside one operating system for B2B growth.
 
 -------------------
+
+## 3. Chris Walker
+
+- Profile: https://www.linkedin.com/in/chriswalker171/
+- Platforms: LinkedIn, YouTube
+- Focus:
+  - B2B demand generation
+  - Go-to-market (GTM) strategy and revenue systems
+  - Marketing measurement and pipeline efficiency
+
+### Why this expert
+
+Chris Walker is a strong fit for this research because his content consistently challenges traditional B2B marketing models and reframes them around revenue outcomes.
+
+Across his work, he emphasizes:
+- pipeline over leads,
+- demand creation over demand capture,
+- unified GTM systems instead of channel silos,
+- and financial accountability in marketing decisions.
+
+### Key themes observed
+
+- Pipeline is the primary metric for marketing success.  
+- Leads, traffic, and attribution are often misleading.  
+- Demand is largely created through content and dark social.  
+- GTM should be treated as a unified revenue system.  
+- Marketing, sales, and finance must operate on shared metrics.  
+- Content is the main driver for scaling from 0–10M ARR.  
+
+### Collected materials
+
+#### LinkedIn posts
+
+- Marketing KPIs Must Align With Business Results — 2024  
+  → Argues that most B2B issues come from misaligned KPIs and over-reliance on leads instead of pipeline and ROI.  
+
+- Marketing Performance Should Be Measured Like Finance — 2024  
+  → Emphasizes that marketing should be evaluated using financial metrics like efficiency, ROI, and capital allocation.  
+
+- Stop Measuring GTM by Inbound vs Outbound — 2024  
+  → Explains why channel-based GTM creates silos and advocates for a unified revenue model.  
+
+#### YouTube videos 
+
+- Chris Walker’s 0–10M ARR Content Playbook  
+  → Outlines a structured approach to achieving product-market fit and scaling GTM through content, segmentation, and validation.  
+
+### Why it matters for this research
+
+Chris Walker’s content adds a strong measurement and system design layer to the research project.
+
+His work is especially valuable because it shifts the perspective from tactics (ads, outreach, channels) to how the entire GTM system should be designed and measured.
+
+This complements other experts by showing:
+- what to measure (pipeline, ROI, efficiency),
+- how to structure GTM (unified system),
+- and why content and demand creation are foundational for sustainable B2B growth.
+
+-------------------
