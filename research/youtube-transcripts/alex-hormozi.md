@@ -51,10 +51,6 @@ It also highlights that most markets are already crowded — so differentiation 
 - Test pricing models based on willingness to pay.
 - Focus messaging on outcomes, not features.
 
-### Personal Note
-This video reinforces a key Hormozi principle:
-You don’t “convince” people to buy —  
-you build something so aligned with their needs that buying feels obvious.
 
 -----------------
 ## YouTube Video 2
@@ -118,10 +114,5 @@ It also highlights that many companies underutilize their existing customer base
 - Use real urgency to drive faster decisions.
 - Invest in post-purchase experience to improve retention.
 
-### Personal Note
-
-This video reinforces a simple but powerful shift:
-You don’t need more customers to grow —
-you need to make each customer worth more.
 
 
