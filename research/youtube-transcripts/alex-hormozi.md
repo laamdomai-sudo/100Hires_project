@@ -52,9 +52,4 @@ It also highlights that most markets are already crowded — so differentiation 
 - Test pricing models based on willingness to pay.
 - Focus messaging on outcomes, not features.
 
-### Personal Note
-
-This video reinforces a key Hormozi principle:
-
-You don’t “convince” people to buy —  
-you build something so aligned with their needs that buying feels obvious.
+-----------------
