@@ -154,3 +154,70 @@ This complements other experts by showing:
 - and why content and demand creation are foundational for sustainable B2B growth.
 
 -------------------
+
+## 4. Alex Hormozi
+
+- Profile: [https://www.linkedin.com/in/alexhormozi/](https://www.linkedin.com/in/alexhormozi/)
+- Platforms: LinkedIn, YouTube
+- Focus:
+
+  - Offer creation & value design
+  - Sales psychology and buyer behavior
+  - Monetization & LTV optimization
+  - Audience-first business building
+
+### Why this expert
+
+Alex Hormozi is a practitioner who focuses on making products and offers so valuable that selling becomes inevitable.
+
+His work is especially relevant for:
+
+- designing offers that convert without heavy persuasion
+- increasing customer lifetime value (LTV)
+- building audience-first businesses before monetization
+- aligning product, pricing, and demand
+
+### Key themes observed
+
+- Offer quality > marketing tactics
+- Value perception drives conversion
+- LTV is the core growth lever
+- Buyer trust > sales techniques
+- Audience building precedes product scaling
+- Simplicity and clarity outperform complexity
+
+### Collected materials
+
+#### LinkedIn posts
+
+- If you always want to win in sales — ~2024
+  → Emphasizes buyer-centric selling and honesty over closing tactics.
+
+- She has 5,800 followers. Her average post… — ~2025
+  → Shows that content quality and resonance outperform audience size.
+
+#### YouTube videos
+
+- GENIUS Strategy To Make Everyone Want to Buy Your Stuff — 2025
+  → Breaks down product-market fit and how strong offers create natural demand.
+
+- 7 Ways to Get People to Buy More Times — 2025
+  → Explains how to increase purchase frequency and maximize LTV.
+
+### Why it matters for this research
+
+Alex Hormozi’s content provides a strong foundation for building a growth strategy that is:
+
+- offer-driven (not channel-driven)
+- focused on monetization and retention, not just acquisition
+- rooted in real buyer behavior and value perception
+- scalable through strong fundamentals rather than hacks
+
+His approach is directly applicable to building a B2B SaaS or creator business where:
+
+- demand is created through clarity and value
+- growth comes from LTV expansion
+- and marketing works because the offer already makes sense.
+
+-------------------
+
