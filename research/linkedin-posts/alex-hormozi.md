@@ -68,3 +68,91 @@ For B2B marketers and personal brands:
 This post reinforces a core principle:
 You don’t grow by chasing followers —
 you grow by earning attention **one post at a time.**
+
+------------------
+## Post 2
+
+Title: If you always want to win in sales
+URL: [https://www.linkedin.com/posts/alexhormozi_alexhormozi-acquisition-sales-activity-7191837345501843456-wkyc/]
+Date: ~2024
+
+### Summary
+
+In this post, Alex Hormozi distills sales down to a single principle:
+
+👉 The person who wins in sales is the one who cares most about the buyer.
+
+He contrasts transactional selling (fit the customer into a product) with a more buyer-centric approach — where the goal is to genuinely understand and serve the customer’s needs, even if it means not making the sale.
+
+The core idea:
+Sales isn’t about persuasion — it’s about alignment and honesty.
+
+### Key Insights
+
+- Most sales processes are **transactional**:
+
+  - Fit the customer into an existing product
+  - Optimize for speed and efficiency
+  - Minimal customization
+
+- Transactional sales work best when:
+
+  - Products are simple and standardized
+  - Price points are lower
+  - Volume matters more than depth
+
+- But long-term success comes from **buyer obsession**:
+
+  - Deep listening > pitching
+  - Understanding context > pushing features
+
+- Caring about the buyer leads to:
+
+  - Better qualification (not everyone should buy)
+  - Stronger trust
+  - Higher conversion quality
+  - Fewer objections
+
+- Ethical selling principle:
+
+  - If your product doesn’t help → don’t sell it
+
+- The paradox:
+
+  - The less you try to “close”
+  - The more you actually win
+
+### Why it matters
+
+This reframes sales from:
+
+→ “How do I convince them?”
+to
+→ “Should they even buy this?”
+
+In modern B2B and high-trust environments:
+
+- buyers are more informed,
+- trust is harder to earn,
+- and manipulation is easier to detect.
+
+So **intent becomes a competitive advantage**.
+
+### How to use this in the playbook
+
+- Start every sales conversation with discovery, not pitching
+- Disqualify aggressively — not everyone is a fit
+- Train teams to **listen > respond > guide**, not script
+- Align incentives with customer success, not just closed deals
+- Build trust loops:
+
+  - honesty → value → relationship → revenue
+
+### Personal Note
+
+This is classic Hormozi:
+👉 “No tricks” is the strategy.
+
+The best closers aren’t the best talkers —
+they’re the ones who care enough to tell the truth, even when it costs them the deal.
+
