@@ -45,10 +45,8 @@ This insight challenges the assumption that more content equals more impact. For
 - Resist the pressure to post more just to stay visible
 - Use format consistency (e.g., weekly email, recurring segments) to make consumption easier
 
-## Personal Note
-the era of “more is better” is ending. AI has made content creation effortless, which paradoxically makes *attention* more valuable than ever. In this environment, the winning strategy isn’t producing more—it’s producing content so focused and useful that people *want* to make time for it.
-
 ------------------
+
 # Post 2:
 Title: Build Brand Over Time, Drive Sales Overnight  
 Author: Dave Gerhardt (featuring Jessica Serrano, CMO at Bagel Brands)  
