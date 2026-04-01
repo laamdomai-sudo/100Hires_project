@@ -10,9 +10,9 @@ In this video, Devin Reed and Nehal Tenany breaks down how to evaluate a content
 
 The core argument:
 
-👉 Growth starts with choosing the right audience
-👉 Messaging must be specific enough to win attention
-👉 Distribution, validation, and monetization should be planned together
+- 👉 Growth starts with choosing the right audience
+- 👉 Messaging must be specific enough to win attention
+- 👉 Distribution, validation, and monetization should be planned together
 
 A content business should not try to serve everyone. Instead, it should focus on a smaller, sharper ICP and build the product, pricing, and channel strategy around that audience. 
 
@@ -31,7 +31,7 @@ A content business should not try to serve everyone. Instead, it should focus on
 
 This video reinforces a key principle:
 
-👉 Strong growth comes from matching the right audience with the right offer and the right distribution motion
+- 👉 Strong growth comes from matching the right audience with the right offer and the right distribution motion
 
 For B2B SaaS and creator-led products, this means:
 
@@ -82,9 +82,9 @@ The central theme is that most companies misunderstand the role of content. Inst
 
 The core argument:
 
-👉 Content should build audience and narrative, not just promote the company
-👉 Distribution and format matter as much as the content itself
-👉 Long-term thinking beats short-term conversion tactics
+- 👉 Content should build audience and narrative, not just promote the company
+- 👉 Distribution and format matter as much as the content itself
+- 👉 Long-term thinking beats short-term conversion tactics
 
 They also highlight how platform dynamics (especially LinkedIn and TikTok) are changing, requiring marketers to rethink how they create, distribute, and monetize content.
 
@@ -109,7 +109,7 @@ They also highlight how platform dynamics (especially LinkedIn and TikTok) are c
 
 This video reinforces a key principle:
 
-👉 Content is not just about reach — it’s about building a long-term asset (audience + trust)
+- 👉 Content is not just about reach — it’s about building a long-term asset (audience + trust)
 
 For B2B SaaS, this means:
 
