@@ -70,89 +70,82 @@ You don’t grow by chasing followers —
 you grow by earning attention **one post at a time.**
 
 ------------------
+
 ## Post 2
 
-Title: If you always want to win in sales
+Title: 5 Extremely Easy Productivity Hacks That I Owe My Entire Career To
 URL: [https://www.linkedin.com/posts/alexhormozi_alexhormozi-acquisition-sales-activity-7191837345501843456-wkyc/]
 Date: ~2024
 
 ### Summary
 
-In this post, Alex Hormozi distills sales down to a single principle:
+In this post, Alex Hormozi shares a simple but powerful perspective on productivity:
 
-👉 The person who wins in sales is the one who cares most about the buyer.
+👉 Success doesn’t come from motivation — it comes from immediate action and disciplined habits.
 
-He contrasts transactional selling (fit the customer into a product) with a more buyer-centric approach — where the goal is to genuinely understand and serve the customer’s needs, even if it means not making the sale.
+Instead of waiting for the “right mood” or perfect conditions, Hormozi emphasizes eliminating friction between intention and execution.
 
 The core idea:
-Sales isn’t about persuasion — it’s about alignment and honesty.
+
+Productivity is not about optimization systems — it’s about removing avoidance and starting now.
 
 ### Key Insights
 
-- Most sales processes are **transactional**:
+- Action beats motivation:
 
-  - Fit the customer into an existing product
-  - Optimize for speed and efficiency
-  - Minimal customization
+  - Don’t wait to “feel ready”
+  - Starting creates momentum
 
-- Transactional sales work best when:
+- Avoidance is the real enemy:
 
-  - Products are simple and standardized
-  - Price points are lower
-  - Volume matters more than depth
+  - The work you resist is usually the most important
+  - Confronting it unlocks progress
 
-- But long-term success comes from **buyer obsession**:
+- Perfection is a delay tactic:
 
-  - Deep listening > pitching
-  - Understanding context > pushing features
+  - “Perfect conditions” don’t exist
+  - Starting is the only condition that matters
 
-- Caring about the buyer leads to:
+- Short-term execution > long-term planning:
 
-  - Better qualification (not everyone should buy)
-  - Stronger trust
-  - Higher conversion quality
-  - Fewer objections
+  - Goals in the future are abstract
+  - Habits today are concrete
 
-- Ethical selling principle:
+- Environment design matters:
 
-  - If your product doesn’t help → don’t sell it
-
-- The paradox:
-
-  - The less you try to “close”
-  - The more you actually win
+  - Remove distractions (e.g. phone, notifications)
+  - Focus is a competitive advantage
 
 ### Why it matters
 
-This reframes sales from:
+This reframes productivity from:
 
-→ “How do I convince them?”
+→ “How do I optimize my workflow?”
 to
-→ “Should they even buy this?”
+→ “Why am I not starting?”
 
-In modern B2B and high-trust environments:
+In high-performance environments (founders, marketers, creators):
 
-- buyers are more informed,
-- trust is harder to earn,
-- and manipulation is easier to detect.
+- most bottlenecks are psychological, not technical
+- overthinking often replaces execution
+- distraction is the default state
 
-So **intent becomes a competitive advantage**.
+So the edge comes from **speed of action and consistency**, not complexity.
 
 ### How to use this in the playbook
 
-- Start every sales conversation with discovery, not pitching
-- Disqualify aggressively — not everyone is a fit
-- Train teams to **listen > respond > guide**, not script
-- Align incentives with customer success, not just closed deals
-- Build trust loops:
-
-  - honesty → value → relationship → revenue
+- Start tasks immediately — reduce “thinking time”
+- Identify and tackle avoided work first each day
+- Replace long-term goals with daily non-negotiable habits
+- Create distraction-free blocks (Do Not Disturb, deep work)
+- Measure success by execution, not planning
 
 ### Personal Note
 
-This is classic Hormozi:
-👉 “No tricks” is the strategy.
+Classic Hormozi mindset:
 
-The best closers aren’t the best talkers —
-they’re the ones who care enough to tell the truth, even when it costs them the deal.
+👉 “Start before you’re ready.”
+Most people don’t fail because they lack strategy —
+they fail because they delay action.
+
 
