@@ -63,12 +63,6 @@ For B2B marketers and personal brands:
 - Cut content that gets low engagement (negative signaling).
 - Build consistency before scaling distribution.
 
-### Personal Note
-
-This post reinforces a core principle:
-You don’t grow by chasing followers —
-you grow by earning attention **one post at a time.**
-
 ------------------
 
 ## Post 2
@@ -140,12 +134,6 @@ So the edge comes from **speed of action and consistency**, not complexity.
 - Create distraction-free blocks (Do Not Disturb, deep work)
 - Measure success by execution, not planning
 
-### Personal Note
 
-Classic Hormozi mindset:
-
-👉 “Start before you’re ready.”
-Most people don’t fail because they lack strategy —
-they fail because they delay action.
 
 
