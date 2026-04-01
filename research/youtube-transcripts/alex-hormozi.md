@@ -1,8 +1,7 @@
-## Alex Hormozi — YouTube Video 1
+## YouTube Video 1
 
 Title: GENIUS Strategy To Make Everyone Want to Buy Your Stuff  
 URL: [https://www.youtube.com/watch?v=5MjjpB8SPMo] 
-Channel: Alex Hormozi  
 Date: 2025  
 
 ### Summary
@@ -58,11 +57,10 @@ You don’t “convince” people to buy —
 you build something so aligned with their needs that buying feels obvious.
 
 -----------------
-## Alex Hormozi — YouTube Video 2
+## YouTube Video 2
 
 Title: 7 Ways to Get People to Buy More Times
 URL: [https://www.youtube.com/watch?v=sPkMHh8zTMI]
-Channel: Alex Hormozi
 Date: 2025
 
 ### Summary
