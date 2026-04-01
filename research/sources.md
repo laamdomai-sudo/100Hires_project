@@ -310,3 +310,59 @@ Dave Gerhardt’s content offers a balanced, audience-first framework for B2B ma
 - community-oriented (owned audiences through newsletters and events)  
 
 His approach is directly applicable to building a B2B SaaS content playbook rooted in long-term trust and short-term execution discipline.
+
+-----------------
+# 7. Matt Barker
+**Profile:** https://www.linkedin.com/in/mattjbarker1/  
+**Platforms:** LinkedIn, Newsletter (The Digital Writer)  
+**Focus:**  
+- LinkedIn copywriting and content strategy  
+- Turning personal experience into repeatable content systems  
+- Strategic writing with clear intent (attract → nurture → convert)  
+- Helping business owners write better copy themselves  
+
+## Why this expert
+Matt Barker is a copywriter and coach who built a business generating over £3 million in revenue for himself and his clients through writing on LinkedIn. He transitioned from ghostwriting to teaching business owners how to write their own strategic content. His approach emphasizes simplicity, consistency, and process over cleverness or viral tactics. His work is especially relevant for:
+
+- building a repeatable LinkedIn content system from lived experience  
+- structuring posts to drive specific outcomes (awareness, trust, inquiries)  
+- avoiding burnout and “shiny object” pivots in content strategy  
+- using audience research to create content that actually resonates  
+
+## Key themes observed
+- **Write like you talk** – The best hooks come from explaining something naturally, like a text message to a friend.  
+- **Strategic writing > creative writing** – Every post should have an intent (attract, nurture, convert). Know your audience and desired action before writing.  
+- **Document, don’t create** – Content ideas already exist in your daily life (calls, wins, fails, advice given).  
+- **One flop is not a pattern** – Measure over 20–30 posts, not one. Proven systems should survive short-term underperformance.  
+- **Specificity beats cleverness** – If anyone else could have written it, it’s not differentiated. Personal fingerprint matters.  
+- **Avoid scam influencer tactics** – Exaggerated hooks devalue your journey and disrespect the reader. Sustainable success comes from realistic, useful content.  
+
+## Collected materials
+
+### LinkedIn posts
+
+**I Wrote 610 Hooks for My LinkedIn Posts in 2025 — Here’s My Process** — 2026  
+→ Shares a three-step hook system: (1) pick a recent lived experience, (2) write it out like a text message, (3) refine with timeline, location, stakes. Emphasizes the “can anyone else write this?” test.
+
+**I Posted the Same LinkedIn Post 10 Weeks in a Row — Then One Week It Flopped** — 2026  
+→ Demonstrates why one underperforming post should not derail a proven strategy. Advocates for emotional consistency and trusting data over short-term noise.
+
+**Reverse Engineering My Best Performing LinkedIn Post** — 2026  
+→ Breaks down a winning post line by line, identifying five success factors (lived-experience hook, personal fingerprint, curiosity gap, instantly usable lesson, simple ending). Provides an 8-part framework: Scene → Problem → One-word fix → Example → Why it works → Proof → Lesson → CTA.
+
+### YouTube
+
+**Why Most Fail to Make Money on LinkedIn – Matt Barker** (interview on The Gaming Playbook)  
+→ Covers Matt’s journey from corporate marketing to copywriting business. Key insights: write at a 3rd-grade reading level, build a mini-audience for feedback loops, avoid getting bored and pivoting, and use strategy before content.
+
+## Why it matters for this research
+Matt Barker’s content provides a practical, human-first framework for LinkedIn writing that is:
+- **process-driven** (repeatable systems for hooks, structures, and reposting)  
+- **audience-aligned** (start with ICP research, then content buckets)  
+- **resilient** (trust proven formats over short-term fluctuations)  
+- **scalable** (from one-person business to coaching and products)  
+
+His emphasis on writing as a *strategic skill* with clear intent—rather than a creative exercise—aligns directly with building a sustainable B2B SaaS content playbook.
+
+-----------------
+
