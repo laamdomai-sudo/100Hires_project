@@ -1,7 +1,6 @@
 # Youtube video 1
 
 Title: Fast-Track Audience Growth with Hyper-Relevant Content
-Author: Nehal Tenany
 URL: [https://www.youtube.com/watch?v=DeB_fDMwTKw]
 Date: 2026
 
@@ -66,3 +65,120 @@ For B2B SaaS and creator-led products, this means:
 
 This video shows that growth is not just about creating more content. It is about deciding who the content is for, what problem it solves, and how it connects to a real monetization path. The strongest strategy is the one that reduces uncertainty first, then scales the parts that prove they work. 
 
+-----------------
+
+# Youtube video 2
+
+Title: The Content Strategy Mistake Costing You Growth
+Author: Brendan Hufford (with Chris Walker & Daniel Murray)
+URL: [https://www.youtube.com/watch?v=Iz6nlTnZfJE]
+Date: 2026
+
+## Summary
+
+In this podcast, Devin Reed, Brendan Hufford, Chris Walker, and Daniel Murray explore how B2B marketers are misusing LinkedIn and broader content channels, leading to stalled growth despite high activity.
+
+The central theme is that most companies misunderstand the role of content. Instead of building audience, trust, and long-term demand, they treat content as a short-term promotion or PR tool.
+
+The core argument:
+
+👉 Content should build audience and narrative, not just promote the company
+👉 Distribution and format matter as much as the content itself
+👉 Long-term thinking beats short-term conversion tactics
+
+They also highlight how platform dynamics (especially LinkedIn and TikTok) are changing, requiring marketers to rethink how they create, distribute, and monetize content.
+
+## Key Insights
+
+- Company pages fail because they act like PR channels, not media platforms.
+- The best-performing brands treat content as a media asset, not announcements.
+- Personal brands outperform company pages in most cases.
+- LinkedIn is shifting:
+
+  - Personal reach plateaus at scale
+  - Company pages are becoming more viable
+  - Format (e.g. slides, lives) is increasingly important
+- Posting more does not equal more reach (especially on LinkedIn).
+- Bad content creates **negative signaling** (hurts brand + algorithm performance).
+- Audience has its own “LTV” — not just customers.
+- Short-term tactics (spam, low-value posts) reduce long-term audience value.
+- TikTok is interest-based, not follower-based → requires consistency (60–90 days).
+- Virality without narrative leads to weak retention and low downstream value.
+
+## Why it matters
+
+This video reinforces a key principle:
+
+👉 Content is not just about reach — it’s about building a long-term asset (audience + trust)
+
+For B2B SaaS, this means:
+
+- Thinking like a **media company**, not just a software company
+- Building audience before aggressively monetizing
+- Avoiding short-term tactics that damage long-term brand equity
+- Understanding platform mechanics (LinkedIn ≠ TikTok)
+- Prioritizing **value per post**, not volume
+
+## How to use this in the playbook
+
+### Section: “Company Page as Media Asset”
+
+- Stop using company page for:
+
+  - Product updates
+  - Hiring announcements
+  - Internal news
+- Start using it as:
+
+  - A destination for your audience
+  - A niche media brand (e.g. “for marketers”, “for sales leaders”)
+
+### Section: “Audience-First Growth Strategy”
+
+- Build audience before pushing conversion
+- Focus on:
+
+  - Attention → Middle funnel (podcast, events) → Revenue
+- Think long-term (3–5 years), not campaign-by-campaign
+
+### Section: “Content Quality & Negative Signaling”
+
+- Avoid low-value or repetitive posts
+- Each post should deliver clear value
+- Poor content harms:
+
+  - Brand perception
+  - Algorithm reach
+  - Audience trust
+
+### Section: “LinkedIn Strategy Update”
+
+- Prioritize **one high-quality post per day** (not multiple)
+- Experiment with:
+
+  - Slide decks
+  - LinkedIn Lives
+  - Events
+- Accept that growth may plateau → shift to new formats
+
+### Section: “Multi-Channel Distribution System”
+
+- Use core content (podcast, events) as source
+- Repurpose across:
+
+  - LinkedIn
+  - TikTok
+  - Twitter
+- Treat LinkedIn as a **distribution channel**, not the origin
+
+## Personal Note
+
+This video reframes one of the biggest mistakes in B2B content:
+Most teams are not failing because they lack content — they are failing because they think too short-term.
+The strongest companies treat content as a long-term asset:
+
+- They build audience first
+- They invest in narrative
+- They prioritize trust over immediate conversion
+
+In the end, growth comes from owning attention and message over time — not from posting more.
