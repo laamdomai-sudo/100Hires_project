@@ -47,3 +47,48 @@ This insight challenges the assumption that more content equals more impact. For
 
 ## Personal Note
 the era of “more is better” is ending. AI has made content creation effortless, which paradoxically makes *attention* more valuable than ever. In this environment, the winning strategy isn’t producing more—it’s producing content so focused and useful that people *want* to make time for it.
+
+------------------
+# Post 2:
+Title: Build Brand Over Time, Drive Sales Overnight  
+Author: Dave Gerhardt (featuring Jessica Serrano, CMO at Bagel Brands)  
+URL: https://www.linkedin.com/posts/davegerhardt_my-job-is-to-build-brand-over-time-and-drive-activity-7434267816880410624-6Sdy  
+Date: 2026 
+
+## Summary
+
+In this post, Dave Gerhardt shares a quote from his podcast guest Jessica Serrano, CMO at Bagel Brands (Einstein Brothers, Noah’s, Bruegger’s, Manhattan Bagel):  
+👉 “My job is to build brand over time and drive sales overnight.”  
+
+The post explores why B2B marketers should pay attention to consumer marketing leaders. Jessica’s experience spans both worlds, and she highlights that the “math is just better” in B2B — focusing on fewer, bigger customers who pay more on a repeat basis. The conversation covers how B2B and B2C marketing are more similar than people think, and how tactics like AI, buyer personas, and clean list management apply across both.
+
+## Key Insights
+- **Brand and sales are parallel tracks** – Building brand compounds over time, but revenue requires urgency. Marketers must do both simultaneously, not choose one.
+- **B2B and B2C overlap is significant** – The perceived chasm between B2B and B2C marketing is often a social construct. Consumer tactics like repeat purchase behavior and customer insight translate directly to B2B.
+- **Fewer, bigger customers is a universal model** – Whether selling bagels or software, focusing on fewer, larger, repeat customers makes better business sense.
+- **Clean lists matter** – Jessica’s tactic of filtering work emails out of a consumer list became a real customer acquisition method. Timing beats volume when the audience is clean.
+- **Moving upmarket changes operations** – Bigger customers mean longer cycles, higher expectations, and zero tolerance for sloppy positioning. It’s a different operational muscle.
+
+## Why it matters
+This insight challenges the idea that B2B and B2C marketing are fundamentally different. For B2B SaaS, it reinforces:
+- Brand building is a long-term investment, but pipeline discipline drives short-term results
+- The same principles (clean data, audience segmentation, repeat purchase logic) apply across contexts
+- Marketers must hold both timelines — brand equity and sales urgency — in their hands simultaneously
+
+## How to use this in the playbook
+
+### Section: “Dual-Track Marketing Model”
+- Separate brand-building activities (podcasts, events, thought leadership) from direct response tactics (outbound, paid ads, conversion campaigns)
+- Measure both: brand lift/audience growth alongside pipeline and revenue
+- Accept that both timelines are valid and must be managed in parallel
+
+### Section: “List Hygiene as a Growth Tactic”
+- Clean segmentation (e.g., separating work emails from consumer lists) is a form of customer acquisition
+- Use timing and relevance to drive conversions — not just volume
+- Treat list quality as a leading indicator of program performance
+
+### Section: “B2B Lessons from Consumer Marketing”
+- Borrow tactics from consumer: repeat purchase behavior analysis, persona-based messaging, AI-enabled personalization
+- Recognize that B2B buyers are also consumers — they expect the same level of brand experience
+- Apply consumer-style brand building (emotion, consistency, recognition) to B2B contexts
+
