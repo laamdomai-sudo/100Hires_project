@@ -3,8 +3,6 @@ Author: Justin Simon
 URL: (https://www.youtube.com/watch?v=691CpxtRi5I)  
 Date: 2026  
 
----
-
 ## Summary
 
 In this video, Justin Simon explains why most B2B SaaS companies struggle with growth despite producing a large amount of content.
