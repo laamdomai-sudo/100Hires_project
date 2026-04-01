@@ -4,7 +4,7 @@
 
 ## Summary
 
-In this conversation, Chris Walker and Daniel Murray dive deep into the current state of LinkedIn, TikTok, and content strategy for B2B. They discuss how platform dynamics have shifted—personal reach on LinkedIn plateaus after a certain point, company pages can be turned into media assets, and TikTok offers a new frontier for organic growth with its interest-based algorithm. The core theme is that content should be treated as a long-term audience asset, not short-term promotion.
+In this conversation, Chris Walker and Daniel Murray dive deep into the current state of LinkedIn, TikTok, and content strategy for B2B. They discuss how platform dynamics have shifted—personal reach on LinkedIn plateaus after a certain point, company pages can be turned into media assets. The core theme is that content should be treated as a long-term audience asset, not short-term promotion.
 
 The core arguments:
 - 👉 LinkedIn’s algorithm now penalizes high-volume posting; one great post per day outperforms multiple.
