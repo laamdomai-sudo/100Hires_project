@@ -220,4 +220,56 @@ His approach is directly applicable to building a B2B SaaS or creator business w
 - and marketing works because the offer already makes sense.
 
 -------------------
+## 5. Devin Reed
+-Profile: https://www.linkedin.com/in/devinreed/  
+-Platforms: LinkedIn, YouTube, Podcasts  
+-Focus:  
+  - Content strategy built on awareness stages, not funnels  
+  - Repeatable LinkedIn content frameworks  
+  - Audience-first growth and distribution systems  
+  - B2B content as a long-term media asset  
 
+## Why this expert
+Devin Reed is a former content leader at Gong and a practitioner who focuses on making content strategy *systematic* rather than reactive. His work emphasizes that breakout results come from repeatable formats, buyer-aware messaging, and treating content as a long-term audience asset — not short-term promotion.  
+
+His approach is especially relevant for:  
+- Moving beyond the traditional marketing funnel to awareness-stage mapping  
+- Building repeatable LinkedIn content systems  
+- Designing content for distribution and audience-building, not just engagement  
+- Aligning content strategy with how B2B buyers actually think  
+
+## Key themes observed
+- **Replace funnels with awareness stages** – The 5 Stages of Awareness (Eugene Schwartz) provide a more accurate buyer-centric framework than TOFU/MOFU/BOFU.  
+- **Breakout content is repeatable** – Proven formats (stories, contrarian takes, data + interpretation, news + so what, deep-dive how-tos) drive consistent results.  
+- **Content is a long-term media asset** – Companies should think like media companies, building audience and trust before aggressive monetization.  
+- **Distribution and format matter as much as content** – Content without a distribution plan rarely performs; format choices (slides, lives, etc.) increasingly impact reach.  
+- **Quality over volume** – Posting more does not equal more reach; low-value content creates negative signaling and damages brand and algorithm performance.  
+- **Audience-first positioning** – Growth starts with a narrow, well-defined ICP with a clear pain point and willingness to pay.  
+
+## Collected materials
+
+### LinkedIn posts
+
+**5 Post Types to Boost LinkedIn Impressions**   
+→ Introduces five repeatable formats that helped a client go from 0 to 89,400 impressions in 30 days: 1st-person stories with hard-earned lessons, contrarian takes, data + interpretation, news + so what, and deep-dive how-tos.
+
+**Challenging the Marketing Funnel: A New Approach to Content Creation** 
+→ Argues that the traditional funnel no longer reflects how people buy. Proposes replacing it with Eugene Schwartz’s 5 Stages of Awareness (Unaware, Problem Aware, Solution Aware, Product Aware, Most Aware) as a more effective content framework.
+
+### YouTube videos
+
+**Fast-Track Audience Growth with Hyper-Relevant Content** (with Nehal Tenany)  
+→ Explains how growth starts by narrowing to a segment with a strong pain point and willingness to pay. Emphasizes audience fit, early validation, staged scaling, and matching channels to funnel roles.
+
+**The Content Strategy Mistake Costing You Growth** (with Brendan Hufford, Chris Walker & Daniel Murray) — 2026  
+→ Explores how B2B marketers misuse LinkedIn by treating content as short-term promotion rather than a long-term audience asset. Covers company page strategy, platform shifts, negative signaling, and the importance of thinking like a media company.
+
+## Why it matters for this research
+Devin Reed’s content provides a structured, buyer-aware foundation for B2B LinkedIn strategy that is:  
+- **system-driven** (repeatable formats, awareness-stage mapping)  
+- **audience-first** (positioning before scale, ICP clarity)  
+- **built for long-term asset value** (media company mindset, trust over short-term conversion)  
+
+His frameworks are directly applicable to creating a scalable B2B SaaS content playbook that moves beyond volume-based tactics to sustainable audience and pipeline growth.
+
+-----------------
