@@ -239,37 +239,74 @@ His approach is especially relevant for:
 - Aligning content strategy with how B2B buyers actually think  
 
 ## Key themes observed
-- **Replace funnels with awareness stages** – The 5 Stages of Awareness (Eugene Schwartz) provide a more accurate buyer-centric framework than TOFU/MOFU/BOFU.  
-- **Breakout content is repeatable** – Proven formats (stories, contrarian takes, data + interpretation, news + so what, deep-dive how-tos) drive consistent results.  
-- **Content is a long-term media asset** – Companies should think like media companies, building audience and trust before aggressive monetization.  
-- **Distribution and format matter as much as content** – Content without a distribution plan rarely performs; format choices (slides, lives, etc.) increasingly impact reach.  
-- **Quality over volume** – Posting more does not equal more reach; low-value content creates negative signaling and damages brand and algorithm performance.  
-- **Audience-first positioning** – Growth starts with a narrow, well-defined ICP with a clear pain point and willingness to pay.  
+- Replace funnels with awareness stages*– The 5 Stages of Awareness (Eugene Schwartz) provide a more accurate buyer-centric framework than TOFU/MOFU/BOFU.  
+- Breakout content is repeatable – Proven formats (stories, contrarian takes, data + interpretation, news + so what, deep-dive how-tos) drive consistent results.  
+- Content is a long-term media asset – Companies should think like media companies, building audience and trust before aggressive monetization.  
+- Distribution and format matter as much as content – Content without a distribution plan rarely performs; format choices (slides, lives, etc.) increasingly impact reach.  
+- Quality over volume – Posting more does not equal more reach; low-value content creates negative signaling and damages brand and algorithm performance.  
+- Audience-first positioning – Growth starts with a narrow, well-defined ICP with a clear pain point and willingness to pay.  
 
 ## Collected materials
 
 ### LinkedIn posts
 
-**5 Post Types to Boost LinkedIn Impressions**   
+5 Post Types to Boost LinkedIn Impressions   
 → Introduces five repeatable formats that helped a client go from 0 to 89,400 impressions in 30 days: 1st-person stories with hard-earned lessons, contrarian takes, data + interpretation, news + so what, and deep-dive how-tos.
 
-**Challenging the Marketing Funnel: A New Approach to Content Creation** 
+Challenging the Marketing Funnel: A New Approach to Content Creation
 → Argues that the traditional funnel no longer reflects how people buy. Proposes replacing it with Eugene Schwartz’s 5 Stages of Awareness (Unaware, Problem Aware, Solution Aware, Product Aware, Most Aware) as a more effective content framework.
 
 ### YouTube videos
 
-**Fast-Track Audience Growth with Hyper-Relevant Content** (with Nehal Tenany)  
+Fast-Track Audience Growth with Hyper-Relevant Content (with Nehal Tenany)  
 → Explains how growth starts by narrowing to a segment with a strong pain point and willingness to pay. Emphasizes audience fit, early validation, staged scaling, and matching channels to funnel roles.
 
-**The Content Strategy Mistake Costing You Growth** (with Brendan Hufford, Chris Walker & Daniel Murray) — 2026  
+The Content Strategy Mistake Costing You Growth (with Brendan Hufford, Chris Walker & Daniel Murray) — 2026  
 → Explores how B2B marketers misuse LinkedIn by treating content as short-term promotion rather than a long-term audience asset. Covers company page strategy, platform shifts, negative signaling, and the importance of thinking like a media company.
 
 ## Why it matters for this research
 Devin Reed’s content provides a structured, buyer-aware foundation for B2B LinkedIn strategy that is:  
-- **system-driven** (repeatable formats, awareness-stage mapping)  
-- **audience-first** (positioning before scale, ICP clarity)  
-- **built for long-term asset value** (media company mindset, trust over short-term conversion)  
+- system-driven (repeatable formats, awareness-stage mapping)  
+- audience-first (positioning before scale, ICP clarity)  
+- built for long-term asset value (media company mindset, trust over short-term conversion)  
 
 His frameworks are directly applicable to creating a scalable B2B SaaS content playbook that moves beyond volume-based tactics to sustainable audience and pipeline growth.
 
 -----------------
+# 6. Dave Gerhardt
+- Profile: https://www.linkedin.com/in/davegerhardt/  
+- Platforms: LinkedIn, Podcast (Exit Five), Newsletter  
+- Focus: 
+  - Dual-track marketing (brand + revenue)  
+  - Signal over noise in content strategy  
+  - Community-driven B2B marketing  
+  - Overlap between B2B and B2C tactics  
+
+## Why this expert
+Dave Gerhardt is the founder of Exit Five and former VP of Marketing at Drift. He champions practical marketing that respects audience attention, balancing long-term brand building with short-term revenue. His work is relevant for building sustainable content systems, community-led growth, and applying consumer tactics to B2B.
+
+## Key themes observed
+- **Dual-track marketing** – Brand compounds over time; revenue needs urgency. Marketers must deliver both in parallel.  
+- **Signal over noise** – AI-generated content has created massive clutter; clarity and consistency become competitive advantages.  
+- **B2B = B2C (more than you think)** – Consumer tactics (clean lists, repeat purchase logic, brand emotion) translate directly to B2B.  
+- **Fewer, bigger customers** – Focusing on repeat, high-value customers is a universal model, but requires operational discipline.  
+- **Community as a core asset** – Building an owned audience through a high-signal newsletter (Exit Five) creates long-term distribution.
+
+## Collected materials
+
+### LinkedIn posts
+
+Build Brand Over Time, Drive Sales Overnight
+→ Highlights the dual mandate of marketing. Features Jessica Serrano (CMO at Bagel Brands) and explores the overlap between B2B and B2C, plus the importance of clean lists and moving upmarket.
+
+Cutting Through the B2B Marketing Content Noise
+→ Addresses the flood of low-value, AI-generated content. Positions the Exit Five newsletter as the solution: one clear edition per week with actionable tactics, not 100 ideas.
+
+## Why it matters for this research
+Dave Gerhardt’s content offers a balanced, audience-first framework for B2B marketing that is:
+- dual-track (brand and revenue as parallel responsibilities)  
+- clarity-driven (signal over noise in a saturated content landscape)  
+- cross-category (consumer tactics applied to B2B)  
+- community-oriented (owned audiences through newsletters and events)  
+
+His approach is directly applicable to building a B2B SaaS content playbook rooted in long-term trust and short-term execution discipline.
