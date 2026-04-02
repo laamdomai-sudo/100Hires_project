@@ -53,3 +53,5 @@ This conversation reframes LinkedIn writing as a strategic, repeatable system �
 - Respect your reader’s intelligence and time
 - Focus on realistic, actionable value—not hype
 
+## Personal Note
+Matt’s journey from ghostwriter to coach mirrors the evolution every serious content creator goes through: start by emulating, then systematize, then find your own voice. His emphasis on boredom as a hidden threat is rarely discussed but deeply real. The writers who win aren’t the most talented—they’re the ones who can write about the same core topics for years without losing conviction. In a world of AI slop and hype hooks, that patience and strategic clarity is the real competitive advantage.
