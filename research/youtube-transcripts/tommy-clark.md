@@ -9,7 +9,7 @@
 Tommy Clark outlines a complete LinkedIn content strategy built on years of experience helping clients generate seven figures in revenue through the platform. He shares a proven framework organized around a content funnel (top, middle, bottom) with specific content types, posting cadence, and profile optimization tactics.
 
 The core argument:
-👉 LinkedIn is the best B2B growth channel—but success requires a strategic system, not random posting.
+> 👉 LinkedIn is the best B2B growth channel—but success requires a strategic system, not random posting.
 
 ## Key Insights
 
