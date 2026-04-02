@@ -8,8 +8,8 @@ Date: 2026
 
 In this video, Justin Simon explains why most B2B SaaS companies struggle with growth despite producing a large amount of content.
 The core argument:
-👉 Content is not the problem  
-👉 Lack of strategic distribution and alignment with business goals is  
+> 👉 Content is not the problem  
+> 👉 Lack of strategic distribution and alignment with business goals is  
 
 He emphasizes that content should not exist in isolation, but must be tied directly to pipeline generation, messaging clarity, and audience understanding.
 
