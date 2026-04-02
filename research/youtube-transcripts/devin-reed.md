@@ -85,9 +85,11 @@ The central theme is that most companies misunderstand the role of content. Inst
 
 The core argument:
 
-- 👉 Content should build audience and narrative, not just promote the company
-- 👉 Distribution and format matter as much as the content itself
-- 👉 Long-term thinking beats short-term conversion tactics
+> 👉 Content should build audience and narrative, not just promote the company
+> 
+> 👉 Distribution and format matter as much as the content itself
+> 
+> 👉 Long-term thinking beats short-term conversion tactics
 
 They also highlight how platform dynamics (especially LinkedIn and TikTok) are changing, requiring marketers to rethink how they create, distribute, and monetize content.
 
