@@ -1,5 +1,6 @@
+# Youtube video 1
+
 Title: How to 10x Your "Old" Content Into Something Brand New w/ Ali Schwanke  
-Author: Justin Simon  
 URL: (https://www.youtube.com/watch?v=691CpxtRi5I)  
 Date: 2026  
 
