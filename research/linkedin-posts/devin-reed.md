@@ -6,8 +6,9 @@ Date: 2026
 ## Summary
 
 In this post, Devin Reed argues that breakout posts on LinkedIn are not a matter of luck — they are inevitable when using proven, repeatable formats. He shares five specific post types that helped a client go from 0 to 89,400 impressions in their first 30 days.
+
 The core idea:
-👉 Breakout content is repeatable once you understand what works
+> 👉 Breakout content is repeatable once you understand what works
 
 ## Key Insights
 - **1st person stories with hard-earned lessons** – The best performing hook. Focus on real moments that taught something worth sharing, not generic “grind mode” narratives.
@@ -46,7 +47,7 @@ Date: 2025
 In this post, Devin Reed challenges the traditional marketing funnel (TOFU/MOFU/BOFU), arguing that it no longer reflects how people actually buy. He proposes replacing it with Eugene Schwartz’s 5 Stages of Awareness as a more effective framework for content creation.
 
 The core idea:
-👉 People move through awareness stages, not funnels — and content must align with where the buyer is mentally
+> 👉 People move through awareness stages, not funnels — and content must align with where the buyer is mentally
 
 ## Key Insights
 - The traditional funnel is a helpful starting place but isn’t built for influencing people.
