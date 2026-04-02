@@ -9,7 +9,7 @@ In this post, Maja Voje argues that the main performance lever in LinkedIn Ads i
 She shows an example where the same offer, creative, and budget moved from a $250 cost per lead to $25 after switching from default LinkedIn targeting to a Clay-built audience list.
 
 The core idea:
-👉 Better audience lists create better ad economics. 
+> 👉 Better audience lists create better ad economics. 
 
 ### Key Insights
 - Audience quality matters more than creative.
@@ -58,9 +58,6 @@ This post is useful for B2B SaaS GTM because it reframes outreach as a signal-ba
 - Separate comment follow-up, value-led outreach, and proof-led outreach into different flows. 
 - Use case studies and social proof inside sequences. 
 - Customize templates for your ICP and buyer journey instead of copying them directly.
-
-### Personal Note
-This post reinforces a practical GTM principle: the quality of outreach is driven less by volume and more by relevance, timing, and fit. In other words, the best sequences are built from real buyer signals and adapted to the specific audience you want to reach. 
 
 ----------------
 
