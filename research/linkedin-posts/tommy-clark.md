@@ -49,18 +49,6 @@ This post captures a critical inflection point in LinkedIn content strategy. For
 - Apply the “AI slop test”: if the post feels generic or could be anyone’s, it needs more personal input.
 
 ---------------------
-**Lưu ý về trùng lặp:**  
-Bài post này có sự trùng lặp đáng kể với nội dung trong các video YouTube của Tommy Clark đã được summarize trước đó, đặc biệt là về:
-- Lựa chọn nền tảng (LinkedIn, post từ personal profile)
-- Công thức headline (Role + Company + Value Prop)
-- Cadence 5 bài/tuần
-- Các định dạng post (personal story, listicle, customer anecdote, hot take, case study)
-- Cam kết 90 ngày nhất quán
-- Double down vào những gì hiệu quả
-
-Dưới đây là summary tập trung vào những điểm **đặc thù của bài post này** (không trùng lặp với các nội dung đã có):
-
----
 
 # Post 2:
 - Title: How to Launch a Founder-Led Content Strategy on LinkedIn (8-Step Playbook)    
