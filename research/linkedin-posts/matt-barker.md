@@ -8,7 +8,7 @@
 In this post, Matt Barker shares the exact process he used to write 610 hooks for LinkedIn posts in 2025. Instead of relying on viral formulas or AI-generated openers, he advocates for a simple, human-first approach rooted in lived experience.
 
 The core idea:
-👉 Stop trying to sound clever. Start with something real that happened to you.
+> 👉 Stop trying to sound clever. Start with something real that happened to you.
 
 ## Key Insights
 
@@ -49,7 +49,7 @@ This post challenges the trend of formulaic, AI-generated hooks that dominate Li
 In this post, Matt Barker shares a counterintuitive lesson from his content system: after reposting the same successful post for 10 weeks, it finally underperformed. Instead of panicking, changing strategy, or deleting the post, he decided to do nothing.
 
 The core idea:
-👉 One bad post is not a pattern. Don’t let a single data point torch a proven system.
+> 👉 One bad post is not a pattern. Don’t let a single data point torch a proven system.
 
 ## Key Insights
 
@@ -95,7 +95,7 @@ This post challenges the common impulse to over-optimize based on short-term per
 In this post, Matt Barker reverse-engineers his best-performing LinkedIn post from March to understand exactly why it worked. The post achieved 21k impressions (nearly 2x average), 148 saves, and 45 link clicks. He breaks down the elements that made it successful and shares a repeatable framework.
 
 The core idea:
-👉 Don’t “come up with ideas” — document things. Everything you do has a LinkedIn post in it.
+> 👉 Don’t “come up with ideas” — document things. Everything you do has a LinkedIn post in it.
 
 ## Key Insights
 
