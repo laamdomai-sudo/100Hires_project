@@ -69,4 +69,9 @@ That makes the content strategy more strategic, more measurable, and more likely
 - Product-led growth
 - Organic content as support
 
+## Personal Note
 
+This video is strong because it treats content as part of a full go-to-market system.
+The main takeaway is:
+👉 If you do not know who you are selling to, what they pay for, and how you win the first segment, content strategy will stay generic
+That makes this a strong source for a GTM-focused B2B playbook.
