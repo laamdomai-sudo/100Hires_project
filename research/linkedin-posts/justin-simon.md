@@ -1,8 +1,7 @@
 # Post 1:
-Title: Prioritize Distribution Over Content Creation  
-Author: Justin Simon  
-URL: https://www.linkedin.com/posts/justincsimon_creating-content-is-the-wrong-move-content-activity-7422279459493486592-RTkK  
-Date: 2026  
+- Title: Prioritize Distribution Over Content Creation  
+- URL: https://www.linkedin.com/posts/justincsimon_creating-content-is-the-wrong-move-content-activity-7422279459493486592-RTkK  
+- Date: 2026  
 
 ## Summary
 
@@ -43,10 +42,9 @@ For LinkedIn strategy, this means:
 
 --------------
 # Post 2:
-Title: Marketing Has Completely Changed  
-Author: Justin Simon  
-URL: https://www.linkedin.com/posts/justincsimon_im-convinced-marketing-has-completely-changed-activity-7442186597631950848  
-Date: 2026  
+- Title: Marketing Has Completely Changed  
+- URL: https://www.linkedin.com/posts/justincsimon_im-convinced-marketing-has-completely-changed-activity-7442186597631950848  
+- Date: 2026  
 
 ## Summary
 In this post, Justin Simon argues that marketing has fundamentally changed, especially in how content works for B2B SaaS.
