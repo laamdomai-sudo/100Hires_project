@@ -74,4 +74,4 @@ This video provides a complete, repeatable system for LinkedIn growth that balan
 
 ## Personal Note
 
-Tommy’s strategy is refreshingly practical. He doesn’t promise viral hacks—he offers a system built on consistency, structure, and genuine value. The content funnel approach solves the tension every B2B creator faces: how to grow an audience *and* generate revenue without sacrificing one for the other. The emphasis on *savable frameworks* and *hot takes* speaks to what actually works in 2025’s LinkedIn environment—utility and opinion, not fluff. For any founder or marketer looking to turn LinkedIn into a predictable lead channel, this is a ready-to-implement blueprint.
+Tommy’s strategy is refreshingly practical. He doesn’t promise viral hacks—he offers a system built on consistency, structure, and genuine value. The content funnel approach solves the tension every B2B creator faces: how to grow an audience *and* generate revenue without sacrificing one for the other. 
