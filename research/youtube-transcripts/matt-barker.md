@@ -9,7 +9,7 @@
 In this interview, Matt Barker shares his journey from corporate marketing to building a copywriting business that generated over £3 million in revenue for him and his clients. He breaks down the mindset, process, and strategy behind effective LinkedIn writing—and why most people fail to see results.
 
 The core argument:
-👉 Writing online is not about being clever — it’s about being understood, consistent, and strategic.
+> 👉 Writing online is not about being clever — it’s about being understood, consistent, and strategic.
 
 ## Key Insights
 
