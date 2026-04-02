@@ -1,15 +1,14 @@
 # Post 1:
-Title: Cutting Through the B2B Marketing Content Noise  
-Author: Dave Gerhardt  
-URL: https://www.linkedin.com/posts/davegerhardt_theres-never-been-more-b2b-marketing-content-activity-7347202595104473090-6Uvn  
-Date: 2026 (original post ~8 months prior to comment dates shown)
+- Title: Cutting Through the B2B Marketing Content Noise   
+- URL: https://www.linkedin.com/posts/davegerhardt_theres-never-been-more-b2b-marketing-content-activity-7347202595104473090-6Uvn  
+- Date: 2026 (original post ~8 months prior to comment dates shown)
 
 ## Summary
 
 In this post, Dave Gerhardt addresses the overwhelming flood of B2B marketing content across LinkedIn, podcasts, Substacks, and YouTube. He observes that AI-generated “growth hacks,” 30-slide carousels, and endless templates have created a situation where “everyone’s yelling ‘Here’s what you should be doing.’”
 
-The core argument:
-👉 The solution to content overload is not more content—it’s **signal over noise**, delivered consistently with a focused scope.
+The core ida:
+> 👉 The solution to content overload is not more content—it’s **signal over noise**, delivered consistently with a focused scope.
 
 Gerhardt introduces the Exit Five newsletter as an antidote: one clear edition per week with one or two things worth learning, not 100 ideas. The newsletter focuses on actionable tactics, live sessions, and curated job opportunities for B2B marketers.
 
@@ -48,10 +47,10 @@ This insight challenges the assumption that more content equals more impact. For
 ------------------
 
 # Post 2:
-Title: Build Brand Over Time, Drive Sales Overnight  
-Author: Dave Gerhardt (featuring Jessica Serrano, CMO at Bagel Brands)  
-URL: https://www.linkedin.com/posts/davegerhardt_my-job-is-to-build-brand-over-time-and-drive-activity-7434267816880410624-6Sdy  
-Date: 2026 
+- Title: Build Brand Over Time, Drive Sales Overnight  
+- Author: Dave Gerhardt (featuring Jessica Serrano, CMO at Bagel Brands)  
+- URL: https://www.linkedin.com/posts/davegerhardt_my-job-is-to-build-brand-over-time-and-drive-activity-7434267816880410624-6Sdy  
+- Date: 2026 
 
 ## Summary
 
