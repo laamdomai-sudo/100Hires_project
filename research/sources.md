@@ -419,3 +419,56 @@ Tommy Clark’s content provides a comprehensive, execution-focused system for L
 - **outcome-oriented** (two-track assessment, leads vs. vanity metrics)  
 
 His frameworks are directly applicable to building a scalable B2B SaaS content playbook that turns LinkedIn into a predictable inbound channel.
+
+--------------------
+# 8. Matt Swain
+- Profile: https://www.linkedin.com/in/matt-swain1/  
+- Platforms: LinkedIn, Podcasts, Speaking Events  
+- Focus:  
+  - High‑ticket B2B lead generation through LinkedIn content  
+  - Strategic storytelling and visual identity for premium positioning  
+  - Combining organic content with outbound automation  
+  - Building real‑world opportunities alongside online presence  
+
+## Why this expert
+Matt Swain is a branding and content strategist who helps eight‑figure founders and CEOs build authority on LinkedIn. He has generated seven‑figure leads for clients through a holistic approach that integrates strategic storytelling, premium visual identity, personal anecdotes, and outbound engagement. His work demonstrates that LinkedIn success isn’t about impressions—it’s about attracting the right decision‑makers with the right wrapper around your content.
+
+His approach is especially relevant for:
+- B2B founders and agencies targeting enterprise or high‑ticket clients
+- Creators who want to move beyond vanity metrics to revenue
+- Building a premium brand that commands trust at scale
+- Using social media to unlock real‑world opportunities (speaking, partnerships, deals)
+
+## Key themes observed
+- **The wrapper matters as much as the content** – Using the chocolate bar analogy: content is the chocolate (quality matters), but the wrapper (branding, visuals, values, tone) signals which market tier you occupy. Premium clients require a premium wrapper.
+- **Outbound + content = results** – Organic content builds trust; outbound automation (e.g., 800 connection requests/month) scales conversations with the right people.
+- **Quality of engagement over quantity** – A $2.4M deal came from a VP who followed content for months, not from a viral post. Decision‑makers don’t check engagement rates; they check if you understand their world.
+- **Selective authenticity** – Being “too authentic” can undermine your goals. Share selectively with an outcome in mind. Your brand should open doors, not close them.
+- **Online presence feeds offline presence** – The most successful creators build an in‑person career alongside social media. Use your following to get gigs, meetings, and partnerships; then use those experiences to create better content.
+- **Hustle and attention to detail** – Consistent activity, caring about the 1%, and mirroring high standards differentiate winners from everyone else.
+
+## Collected materials
+
+### LinkedIn posts
+
+**How to Generate £350k Leads with LinkedIn Content** — 2025  
+→ Case study: a client with 24k followers posted 8–10x/month but generated zero demand. The fix: strategic storytelling, premium visual identity, personal anecdotes, outbound automation (800 connection requests/month), and systemization. Results in 3 months: 301k impressions, 83 interested conversations, £350k inbound leads.
+
+**How to Close $2.4M Deals with LinkedIn Content** — 2025  
+→ Shares a client who closed a $2.4M deal from LinkedIn content. Argues that quality of engagement beats quantity. After 2,000+ ghostwritten posts, the two things that matter most: doing the right activities consistently, and the quality of your ideas/insights. The creators winning are those whose content creates conversations that matter with the right people, at the right level, about the right problems.
+
+### YouTube
+
+**Branding Expert: The Biggest Mistakes You’re Making on Social Media** (Last N’Anthos podcast)  
+→ A deep conversation covering: moving from corporate finance to building a personal brand; the importance of making decisions with the body, not just the mind; the chocolate bar analogy (content = chocolate, wrapper = positioning); selective authenticity; using social media to unlock real‑world opportunities; signing eight‑figure clients; and the role of hustle and attention to detail in building a premium brand.
+
+## Why it matters for this research
+Matt Swain’s content provides a high‑end, execution‑oriented perspective on LinkedIn that is:
+- **positioning‑first** (the wrapper defines the market tier you attract)
+- **outcome‑focused** (vanity metrics are secondary to real conversations and deals)
+- **holistic** (combines content, outbound, visual identity, and real‑world presence)
+- **trust‑centric** (decision‑makers need to see that you understand their world)
+
+His insights are essential for any B2B creator or founder aiming to use LinkedIn to land enterprise‑level clients, not just grow an audience.
+
+-------------------
