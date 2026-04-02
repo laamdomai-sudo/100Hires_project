@@ -365,7 +365,7 @@ Matt Barker’s content provides a practical, human-first framework for LinkedIn
 His emphasis on writing as a *strategic skill* with clear intent—rather than a creative exercise—aligns directly with building a sustainable B2B SaaS content playbook.
 
 -----------------
-# Tommy Clark
+# 8. Tommy Clark
 - Profile: https://www.linkedin.com/in/tclarkmedia/  
 - Platforms: LinkedIn, YouTube, Newsletter  
 - Focus:  
@@ -421,7 +421,7 @@ Tommy Clark’s content provides a comprehensive, execution-focused system for L
 His frameworks are directly applicable to building a scalable B2B SaaS content playbook that turns LinkedIn into a predictable inbound channel.
 
 --------------------
-# 8. Matt Swain
+# 9. Matt Swain
 - Profile: https://www.linkedin.com/in/matt-swain1/  
 - Platforms: LinkedIn, Podcasts, Speaking Events  
 - Focus:  
@@ -472,3 +472,116 @@ Matt Swain’s content provides a high‑end, execution‑oriented perspective o
 His insights are essential for any B2B creator or founder aiming to use LinkedIn to land enterprise‑level clients, not just grow an audience.
 
 -------------------
+
+# 10. Justin Welsh
+- Profile: https://www.linkedin.com/in/justinwelsh/  
+- Platforms:LinkedIn, Twitter, Newsletter  
+- Focus:
+  - One‑person business building  
+  - LinkedIn content strategy and audience growth  
+  - Repetition as branding (say one thing 1,000 ways)  
+  - Creator funnel: awareness → trust → deepen → monetize  
+  - Systems and templates over hustle  
+
+## Why this expert
+Justin Welsh is a solopreneur who built a seven‑figure business by writing consistently on LinkedIn. He started from zero in 2018 and grew to over 820k followers. His approach emphasizes simplicity (write, see what works, do more of that), repetition (5 core ideas repeated endlessly), and systematic content creation. He is especially relevant for:
+
+- founders and creators who want to turn LinkedIn into a revenue channel  
+- building a one‑person business without a large team  
+- using content as a leverage engine, not a vanity metric  
+- creating repeatable systems for ideation, writing, and distribution  
+
+## Key themes observed
+- **Bet on yourself** – The downside is limited; the upside is unlimited. Start before you’re ready.  
+- **Repetition is branding** – Find 3–5 core ideas and say them 1,000 different ways. Your audience needs focus, not variety.  
+- **Execution beats strategy** – A decent plan executed well beats a brilliant plan executed occasionally. Movement creates clarity.  
+- **Creator funnel** – Awareness (social) → Trust (newsletter) → Deepen (community, events) → Monetize (products). Wait longer than you think to monetize.  
+- **Systems remove friction** – Content matrix, templates, and batching prevent burnout and blank‑page paralysis.  
+- **Service before product** – Start with coaching calls, find common problems, then productize. Pre‑sell before building anything.  
+
+## Collected materials
+
+### LinkedIn posts
+
+**How I Gained 675K+ LinkedIn Followers** — 2024  
+→ Argues that betting on yourself has limited downside and unlimited upside. LinkedIn remains undervalued. All you need is clarity, consistency, and courage.
+
+**The Content Game Isn’t About Being Original — It’s About Being Useful** — 2025  
+→ Distills his business into 5 core ideas repeated across 4,700+ posts. Repetition isn’t boring; it’s branding. Find your truth and say it loudly and often.
+
+**My Strategy When I Started Was Pretty Basic** — 2026  
+→ Reflects on his simple start: write, see what works, do more of that. No complicated funnels or calendars. A decent plan executed well beats a brilliant plan executed occasionally.
+
+### YouTube videos
+
+**My Whole Thought Process: How I Help People from Point A to Point B** (Creative Elements podcast)  
+→ Covers the creator funnel (awareness → trust → deepen → monetize), content matrix, product pre‑selling, and why one interview is worth a thousand surveys.
+
+**Justin Welsh Shows You How To Start & Grow A One-Person Business** (Modern Mastery podcast)  
+→ Details his daily schedule, LinkedIn writing framework (hook → validator → meat → recap → call to conversation), content matrix, and the “service before product” path.
+
+## Why it matters for this research
+Justin Welsh’s content provides a simple, execution‑focused blueprint for LinkedIn success that is:
+- **beginner‑friendly** (start with one platform, post daily, learn as you go)  
+- **systematic** (content matrix, templates, batching)  
+- **revenue‑driven** (creator funnel, pre‑selling, impulse‑buy products)  
+- **psychologically smart** (repetition builds trust, small bets reduce risk)  
+
+His frameworks are directly applicable to any B2B creator or founder who wants to turn LinkedIn into a predictable lead and revenue channel without burning out.
+
+------------------
+# 11. Katelyn Bourgoin
+- Profile:https://www.linkedin.com/in/katebour/  
+- Platforms:LinkedIn, Newsletter (Why We Buy), Twitter  
+- Focus:
+  - Buyer psychology and behavioral science for marketing  
+  - Jobs to be Done (JTBD) framework  
+  - Messaging strategy (Painkiller Method, Pre‑suasion)  
+  - Customer research (fast, cheap methods using Reddit + ChatGPT)  
+  - Ownable ideas and Authority Flywheel for content  
+
+## Why this expert
+Katelyn Bourgoin is a buyer psychologist and founder of Why We Buy, a newsletter reaching 63,000+ readers. After a failed venture‑backed startup, she pivoted to helping marketers understand why customers really buy. Her work bridges behavioral science with practical messaging and content strategy. She is especially relevant for:
+
+- B2B marketers who want to move beyond generic “value” content  
+- founders and creators struggling to convert attention into clients  
+- anyone who needs a repeatable system for generating compelling content  
+- teams that want to do fast, cheap customer research without big budgets  
+
+## Key themes observed
+- **Pre‑suasion > persuasion** – Prime your audience before you pitch. Small cues (LinkedIn banner, headline, recent posts) dramatically increase receptivity.  
+- **Painkiller Method** – No promise matters if people don’t feel the pain. Name the problem first, then offer the solution.  
+- **Ownable idea at the center** – Distill your unique point of view into a single, sticky, buyable statement. Everything else flows from it.  
+- **Authority Flywheel** – Four content types: Problem, POV, Promise, Proof. Each reinforces the same core idea from a different angle.  
+- **Fast research** – Use Reddit + ChatGPT to mine customer struggles, trigger events, and real language. One interview is worth a thousand surveys.  
+- **Trojan Horse technique** – Sell what people want (e.g., “build a personal brand”), deliver what they need (e.g., fun, community, systems).  
+
+## Collected materials
+
+### YouTube videos
+
+**Buyer Psychology: Be Buyable, Not Forgettable**  
+→ Defines the ownable idea (6 characteristics: revelatory, directive, sticky, aspirational, credible, buyable). Discusses cognitive biases (labor illusion, messenger effect, eye gaze) and landing page psychology.
+
+**Advanced Messaging Strategy: Making Your Product a Must‑Have**  
+→ Presents the Painkiller Method (pain + promise), Trojan Horse technique, Triple P pitch (Problem, Promise, Proof), and fast research using Reddit + ChatGPT.
+
+### LinkedIn posts
+
+**Why Is Convincing People to Buy Stuff So Hard? (Pre‑suasion)**  
+→ Introduces Cialdini’s pre‑suasion concept. Example: updating LinkedIn banner before a launch. Result: $33,750 from 1 email + Google Doc.
+
+**I Made $0 on My First Launch (And How Pre‑suasion Fixed It)**  
+→ Shares personal story of first launch failure. After applying pre‑suasion, sold out a cohort in 6 minutes ($119,800) and generated $37,450 from 2 emails + Google Doc.
+
+**Say One Thing 1,000 Ways – The Authority Flywheel**  
+→ Introduces the Authority Flywheel: Problem, POV, Promise, Proof. Explains how to repeat your ownable idea relentlessly without sounding repetitive. Uses Codie Sanchez as an example.
+
+## Why it matters for this research
+Katelyn Bourgoin’s content provides a psychology‑backed, execution‑ready framework for B2B content and messaging that is:
+- **research‑driven** (fast, cheap methods to uncover customer insights)  
+- **messaging‑first** (Painkiller Method, ownable idea, pre‑suasion)  
+- **content‑systematic** (Authority Flywheel, 4 content types)  
+- **launch‑proven** (six‑figure results with minimal assets)  
+
+Her frameworks are directly applicable to any B2B creator or marketer who wants to move from “posting content” to “building authority that converts” – without wasting time on tactics that don’t work.
