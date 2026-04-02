@@ -1,8 +1,8 @@
 ## Post 1
 
-Title: Optimize the Audience First
-URL: https://www.linkedin.com/posts/majavoje_linkedin-ads-default-targeting-250-cost-activity-7432409749314379776-vWt1/
-Date: 2026
+- Title: Optimize the Audience First
+- URL: https://www.linkedin.com/posts/majavoje_linkedin-ads-default-targeting-250-cost-activity-7432409749314379776-vWt1/
+- Date: 2026
 
 ### Summary
 In this post, Maja Voje argues that the main performance lever in LinkedIn Ads is audience quality, not creative.
@@ -35,9 +35,9 @@ For LinkedIn and paid social strategy, this means:
 ----------------
 ## Post 2:
 
-Title: 7 Outreach Sequences that Helped HeyReach Hit $10M ARR
-URL: https://www.linkedin.com/posts/majavoje_7-outreach-sequences-that-helped-heyreach-activity-7426973372259147776-k9BS/
-Date: 2026
+- Title: 7 Outreach Sequences that Helped HeyReach Hit $10M ARR
+- URL: https://www.linkedin.com/posts/majavoje_7-outreach-sequences-that-helped-heyreach-activity-7426973372259147776-k9BS/
+- Date: 2026
 
 ### Summary
 In this post, Maja Voje shares seven outreach sequences that helped HeyReach reach $10M ARR in 29 months. Her core argument is that LinkedIn outreach is effective when it is customized to the buyer’s journey, rather than used as a generic template blast. She also warns against treating LinkedIn like a billboard and waiting for leads to appear automatically. 
@@ -63,9 +63,9 @@ This post is useful for B2B SaaS GTM because it reframes outreach as a signal-ba
 
 ## Post 3:
 
-Title: $510k in Pipeline from Events Last Year
-URL: https://www.linkedin.com/posts/majavoje_510k-in-pipeline-from-events-last-year-activity-7428061610293907457-HTds/
-Date: [add exact date if available]
+- Title: $510k in Pipeline from Events Last Year
+- URL: https://www.linkedin.com/posts/majavoje_510k-in-pipeline-from-events-last-year-activity-7428061610293907457-HTds/
+- Date: [add exact date if available]
 
 ### Summary
 
