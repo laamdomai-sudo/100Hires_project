@@ -10,7 +10,9 @@ In this conversation, Dave Gerhardt, Chris Walker and Daniel Murray dive deep in
 
 The core arguments:
 > 👉 LinkedIn’s algorithm now penalizes high-volume posting; one great post per day outperforms multiple.
+> 
 > 👉 Company pages work when treated as media brands for a specific audience, not as PR tickers.
+> 
 > 👉 Content quality creates positive signaling; low-value content creates negative signaling that damages both audience trust and algorithmic reach.
 
 ## Key Insights
