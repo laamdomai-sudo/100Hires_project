@@ -10,7 +10,7 @@ In this post, Justin Simon argues that most B2B SaaS teams approach content in t
 they should begin with distribution planning — defining where the content will go, who it is for, and how it will reach the target audience.
 
 The core idea:
-👉 Content should follow distribution, not lead it  
+> 👉 Content should follow distribution, not lead it  
 
 ## Key Insights
 - Distribution should be defined before content is created.
@@ -53,8 +53,8 @@ In this post, Justin Simon argues that marketing has fundamentally changed, espe
 The traditional approach—creating content and hoping it performs—is no longer effective. Instead, success comes from having a clear system that connects content, distribution, and messaging.
 
 The core idea
-👉 Content alone is not a strategy anymore  
-👉 Systems and distribution are what drive results  
+> 👉 Content alone is not a strategy anymore  
+ >👉 Systems and distribution are what drive results  
 
 ## Key Insights
 - Marketing has shifted from content creation → content systems.
@@ -99,8 +99,8 @@ In this post, Justin Simon shares an example of posting similar content twice, t
 The key takeaway is that content success is not only about quality, but also about timing, distribution, and repetition. A strong idea can perform differently depending on when and how it is distributed.
 
 The core idea:
-👉 Good content doesn’t always win the first time  
-👉 Repetition and redistribution are essential  
+> 👉 Good content doesn’t always win the first time  
+> 👉 Repetition and redistribution are essential  
 
 ## Key Insights
 
