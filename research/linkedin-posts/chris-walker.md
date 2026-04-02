@@ -1,8 +1,8 @@
 ## Post 1:
 
-Title: Marketing KPIs Must Align With Business Results
-URL: https://www.linkedin.com/posts/chriswalker171_finance-marketing-b2b-activity-7254121607781076992-K4Ag/
-Date: 2025
+- Title: Marketing KPIs Must Align With Business Results
+- URL: https://www.linkedin.com/posts/chriswalker171_finance-marketing-b2b-activity-7254121607781076992-K4Ag/
+- Date: 2025
 
 ### Summary
 
@@ -10,7 +10,7 @@ In this post, Chris Walker argues that the root cause of most B2B pipeline probl
 He says that many B2B teams still optimize for leads, traffic, and influenced revenue, while failing to measure what actually matters: pipeline, ROI, new logo efficiency, and growth rate.
 
 The core idea:
-👉 Marketing strategy is shaped by measurement, so if the KPIs are wrong, the strategy will be wrong too.
+> 👉 Marketing strategy is shaped by measurement, so if the KPIs are wrong, the strategy will be wrong too.
 
 ### Key Insights
 
@@ -41,9 +41,9 @@ For a playbook, the takeaway is:
 
 ## Post 2
 
-Title: Marketing Should Be Accountable to Financial Outcomes  
-URL: https://www.linkedin.com/posts/chriswalker171_marketing-finance-b2b-activity-7217514988289019904-NPX1/  
-Date: 2024
+- Title: Marketing Should Be Accountable to Financial Outcomes  
+- URL: https://www.linkedin.com/posts/chriswalker171_marketing-finance-b2b-activity-7217514988289019904-NPX1/  
+- Date: 2024
 
 ### Summary
 
@@ -52,8 +52,7 @@ In this post, Chris Walker emphasizes that marketing should not operate in isola
 He argues that many marketing teams fail because they focus on campaign metrics without understanding how their work impacts revenue efficiency, cost structure, and overall business health.
 
 The core idea:
-
-👉 Marketing is a financial function — not just a creative or lead generation function.
+> 👉 Marketing is a financial function — not just a creative or lead generation function.
 
 ### Key Insights
 
@@ -84,9 +83,9 @@ For a playbook, the takeaway is:
 
 ## Post 3:  
 
-Title: Stop Measuring GTM by Inbound vs Outbound  
-URL: https://www.linkedin.com/posts/chriswalker171_marketing-demand-gtm-activity-7051536933130309632-uvO2/  
-Date: 2024  
+- Title: Stop Measuring GTM by Inbound vs Outbound  
+- URL: https://www.linkedin.com/posts/chriswalker171_marketing-demand-gtm-activity-7051536933130309632-uvO2/  
+- Date: 2024  
 
 ### Summary  
 
@@ -95,8 +94,7 @@ In this post, Chris Walker explains why the traditional way of structuring and m
 He argues that this model creates data fragmentation, poor visibility, and ultimately leads to inefficient scaling.  
 
 The core idea:  
-
-👉 GTM should not be optimized by lead source attribution, but by a unified revenue system focused on outcomes and unit economics.  
+> 👉 GTM should not be optimized by lead source attribution, but by a unified revenue system focused on outcomes and unit economics.  
 
 ### Key Insights  
 
