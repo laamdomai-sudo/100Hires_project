@@ -1,7 +1,7 @@
 # Post 1:
-Title: 5 Post Types to Boost LinkedIn Impressions    
-URL: https://www.linkedin.com/posts/devinreed_breakout-posts-arent-luck-theyre-inevitable-activity-7437553867564662784-b_06  
-Date: 2026 
+- Title: 5 Post Types to Boost LinkedIn Impressions    
+- URL: https://www.linkedin.com/posts/devinreed_breakout-posts-arent-luck-theyre-inevitable-activity-7437553867564662784-b_06  
+- Date: 2026 
 
 ## Summary
 
@@ -38,9 +38,9 @@ This insight shifts the focus from hoping for viral moments to building a repeat
 
 --------------------
 # Post 2:
-Title: Challenging the Marketing Funnel: A New Approach to Content Creation   
-URL: https://www.linkedin.com/posts/devinreed_i-once-presented-a-content-plan-to-the-c-suite-activity-7407108176371916800-oFZ4  
-Date: 2025 
+- Title: Challenging the Marketing Funnel: A New Approach to Content Creation   
+- URL: https://www.linkedin.com/posts/devinreed_i-once-presented-a-content-plan-to-the-c-suite-activity-7407108176371916800-oFZ4  
+- Date: 2025 
 
 ## Summary
 
