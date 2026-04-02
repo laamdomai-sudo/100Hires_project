@@ -313,13 +313,13 @@ His approach is directly applicable to building a B2B SaaS content playbook root
 
 -----------------
 # 7. Matt Barker
-**Profile:** https://www.linkedin.com/in/mattjbarker1/  
-**Platforms:** LinkedIn, Newsletter (The Digital Writer)  
-**Focus:**  
-- LinkedIn copywriting and content strategy  
-- Turning personal experience into repeatable content systems  
-- Strategic writing with clear intent (attract → nurture → convert)  
-- Helping business owners write better copy themselves  
+- Profile: https://www.linkedin.com/in/mattjbarker1/  
+- Platforms:LinkedIn, Newsletter (The Digital Writer)  
+- Focus:  
+  - LinkedIn copywriting and content strategy  
+  - Turning personal experience into repeatable content systems  
+  - Strategic writing with clear intent (attract → nurture → convert)  
+  - Helping business owners write better copy themselves  
 
 ## Why this expert
 Matt Barker is a copywriter and coach who built a business generating over £3 million in revenue for himself and his clients through writing on LinkedIn. He transitioned from ghostwriting to teaching business owners how to write their own strategic content. His approach emphasizes simplicity, consistency, and process over cleverness or viral tactics. His work is especially relevant for:
@@ -365,4 +365,57 @@ Matt Barker’s content provides a practical, human-first framework for LinkedIn
 His emphasis on writing as a *strategic skill* with clear intent—rather than a creative exercise—aligns directly with building a sustainable B2B SaaS content playbook.
 
 -----------------
+# Tommy Clark
+- Profile: https://www.linkedin.com/in/tclarkmedia/  
+- Platforms: LinkedIn, YouTube, Newsletter  
+- Focus:  
+  - Founder-led LinkedIn content strategy for B2B SaaS  
+  - Content funnel framework (TOFU/MOFU/BOFU)  
+  - Repeatable content systems and cadence  
+  - Differentiating through personal stories and proprietary data  
 
+## Why this expert
+Tommy Clark is the founder of Compound Content Studio, an agency that helps B2B founders launch and scale LinkedIn content. He has built his own audience to over 40,000 followers and helped clients generate seven figures in revenue. His approach is systematic, data-driven, and focused on predictable inbound lead generation. His work is especially relevant for:
+
+- building a structured content funnel that balances reach and conversion  
+- establishing founder-led content as a primary GTM channel  
+- using personal stories and unique data to cut through AI-generated noise  
+- implementing repeatable formats and cadence for consistency  
+
+## Key themes observed
+- **Content funnel architecture** – 20% top-funnel (visibility), 60–70% middle-funnel (authority), 10–20% bottom-funnel (conversion).  
+- **Founder-led > company pages** – Personal accounts build trust; company pages serve as landing pages.  
+- **Differentiation in the AI era** – Generic “value” content is dead. Winning requires personal stories and proprietary data.  
+- **Repeatable formats** – Social proof + listicle, monthly updates, origin stories, customer anecdotes, hot takes.  
+- **90-day commitment** – Consistency over 90 days is the minimum to see results; most founders quit too early.  
+- **Outbound engagement** – Comments, connection requests, and profile viewers are essential to convert visibility into leads.  
+
+## Collected materials
+
+### YouTube videos
+
+**The Best LinkedIn Content Strategy for 2025**  
+→ Covers the content funnel (20/60/20 split), five content types, posting cadence (3/5/7x per week), profile optimization, and 30-minute daily writing workflow.
+
+**The Only LinkedIn Growth Video You Ever Need**  
+→ Adds unique insights: content-market fit (alignment between experience, product, and audience), the “golden question” for positioning, idea generation system (notes app, screenshots, running doc), outbound engagement (comments on influencer accounts, 20 connection requests/day), profile viewers as lead source, and repurposing winners.
+
+### LinkedIn posts
+
+**Winning on LinkedIn in 2026: Personal Stories & Exclusive Data** — 2026  
+→ Argues that AI has commoditized generic “value” content. The two remaining differentiators are: (1) pairing every take with a personal story, and (2) sharing proprietary data. IRL photos outperform AI images.
+
+**How to Launch a Founder-Led Content Strategy (8-Step Playbook)** — 2024  
+→ Provides a structured launch playbook: pick platform (LinkedIn, founder account), fix content positioning (a company problem), optimize profile, commit to 5x/week, rotate 5 specific post formats, assess two tracks (performance vs. inbound interest), double down on winners, and commit to 90 days.
+
+**Content Funnel: Build Audience for Your B2B Company** — 2024  
+→ Introduces the content funnel concept with recommended splits: 10–20% top-funnel (broad visibility), 60–70% middle-funnel (ICP-specific authority), 10–20% bottom-funnel (conversion). Warns against the two common mistakes: only product content or only broad content.
+
+## Why it matters for this research
+Tommy Clark’s content provides a comprehensive, execution-focused system for LinkedIn growth that is:
+- **structured** (clear funnel, cadence, formats)  
+- **differentiated** (personal stories, proprietary data, hot takes)  
+- **sustainable** (idea generation systems, repeatable formats)  
+- **outcome-oriented** (two-track assessment, leads vs. vanity metrics)  
+
+His frameworks are directly applicable to building a scalable B2B SaaS content playbook that turns LinkedIn into a predictable inbound channel.
