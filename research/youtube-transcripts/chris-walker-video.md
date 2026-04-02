@@ -17,10 +17,10 @@ Using the example of a knowledge creator / all-in-one product platform, he walks
 - the validation methods
 - the initial go-to-market motions
 
-The core idea:
+The core argument:
 
-👉 Content and GTM should be designed around a clear market, a clear segment, and a clear business model  
-👉 Not around generic content output or broad positioning
+> 👉 Content and GTM should be designed around a clear market, a clear segment, and a clear business model  
+> 👉 Not around generic content output or broad positioning
 
 ## Key Insights
 
