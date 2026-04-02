@@ -18,8 +18,8 @@ Then builds toward:
 - distribution channels  
 - growth motions  
 
-The core idea:
-👉 GTM is not about tactics first — it is about structured thinking and prioritization  
+The core argument:
+> 👉 GTM is not about tactics first — it is about structured thinking and prioritization  
 
 ## Key Insights
 
