@@ -12,7 +12,9 @@ In this video, Devin Reed and Nehal Tenany breaks down how to evaluate a content
 The core argument:
 
 > 👉 Growth starts with choosing the right audience
+> 
 > 👉 Messaging must be specific enough to win attention
+> 
 > 👉 Distribution, validation, and monetization should be planned together
 
 A content business should not try to serve everyone. Instead, it should focus on a smaller, sharper ICP and build the product, pricing, and channel strategy around that audience. 
