@@ -1,3 +1,5 @@
+# Youtube video 1
+
 - Title: How to Use AI for Content Without Creating Slop (with Eoin Clancy, VP Growth at Airops)  
 - URL: [https://www.youtube.com/watch?v=gZBNNEsfGxI]
 - Date:2026
